@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pockylabs" alt="pockylabs" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, VueJS, and Databases**
+- 🌱 I’m currently learning **Laravel, VueJS, ReactJS, NodeJS, and Databases**
 
 - 💬 Ask me about **HTML, CSS, PHP, Python, and Javascript**
 
