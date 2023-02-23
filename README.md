@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pockypoem</h1>
-<h3 align="center">A passionate fullstack developer and an AI Enthusiast from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer and AI Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pockylabs&label=Profile%20views&color=0e75b6&style=flat" alt="pockylabs" /> </p>
 
